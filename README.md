@@ -12,7 +12,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 
 - **Dynamic graph embedding**
 	- [Representation Learning over Dynamic Graphs](https://arxiv.org/pdf/1803.04051.pdf)
-		- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha1
+		- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ArXiv.
 		- [DyReP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 	- [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/abs/1805.11273)
 		- Palash Goyal, Nitin Kamra, Xinran He, Yan Liu. ArXiv.
