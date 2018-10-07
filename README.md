@@ -17,7 +17,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Julien Leblay and Melisachew Wudage Chekol. WWW 2018.
 
 - **Dynamic graph embedding**
-	- [Representation Learning over Dynamic Graphs](https://arxiv.org/pdf/1803.04051.pdf)
+	- [Representation Learning over Dynamic Graphs](https://arxiv.org/abs/1803.04051)
 		- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ArXiv.
 		- [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 	- [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/abs/1805.11273)
