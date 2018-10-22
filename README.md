@@ -8,6 +8,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/abs/1705.05742)
 		- Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. ICML 2017.
 		- [Video](https://vimeo.com/238228194)
+		- [Code](https://github.com/rstriv/Know-Evolve)
 	- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://arxiv.org/abs/1809.03202)
 		- Alberto Garcia-Duran, Sebastijan Dumancic, Mathias Niepert. ArXiv.
 	- [Towards time-aware knowledge graph completion](http://aclweb.org/anthology/C16-1161)
@@ -34,6 +35,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - **Knowledge graph embedding**
 	- [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
 		- Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. ESWC 2018.
+		- [Code (Keras Based)](https://github.com/tkipf/relational-gcn), [Code (TF based)](https://github.com/MichSchli/RelationPrediction)
 
 - **Relational inference**
 	- [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
