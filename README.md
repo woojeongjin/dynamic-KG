@@ -35,7 +35,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - **Knowledge graph embedding**
 	- [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
 		- Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. ESWC 2018.
-		- [Code (Keras Based)](https://github.com/tkipf/relational-gcn), [Code (TF based)](https://github.com/MichSchli/RelationPrediction)
+		- [Code (Keras based)](https://github.com/tkipf/relational-gcn), [Code (TF based)](https://github.com/MichSchli/RelationPrediction)
 
 - **Relational inference**
 	- [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
