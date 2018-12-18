@@ -52,5 +52,5 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
 		- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
 
-## Useful libararies
+## Useful Libararies
 - [Deep graph library](https://www.dgl.ai)
