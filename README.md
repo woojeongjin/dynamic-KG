@@ -30,6 +30,17 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Anonymous, under review at ICLR 2019.
 	- [Continuous-Time Dynamic Network Embeddings](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)
 		- Giang Hoang Nguyen, John Boaz Lee, Ryan A. Rossi, Nesreen K. Ahmed, Eunyee Koh, Sungchul Kim. WWW 2018.
+	- [GC-LSTM: Graph Convolution Embedded LSTM for Dynamic Link Prediction](https://arxiv.org/pdf/1812.04206.pdf)
+		- Jinyin Chen, Xuanheng Xu, Yangyang Wu, Haibin Zheng
+	- [Learning Dynamic Embeddings from Temporal Interaction Networks](https://www-cs.stanford.edu/~srijan/pubs/paper-interactions.pdf)
+		- Srijan Kumar, Xikun Zhang, Jure Leskovec
+	- [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
+		- William L. Hamilton, Rex Ying, Jure Leskovec
+		- [Code (TF based)](https://github.com/williamleif/GraphSAGE), [Code (Pytorch based)](https://github.com/williamleif/graphsage-simple/)
+	- [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973)
+		- Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec
+	- [Stochastic Training of Graph Convolutional Networks with Variance Reduction](https://arxiv.org/pdf/1710.10568.pdf)
+		- Jianfei Chen, Jun Zhu, Le Song
 
 - **Knowledge graph embedding**
 	- [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
@@ -40,3 +51,6 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
 		- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
 		- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
+
+## Useful libararies
+- [Deep graph library](https://www.dgl.ai)
