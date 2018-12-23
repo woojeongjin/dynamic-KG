@@ -41,6 +41,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec
 	- [Stochastic Training of Graph Convolutional Networks with Variance Reduction](https://arxiv.org/pdf/1710.10568.pdf)
 		- Jianfei Chen, Jun Zhu, Le Song
+	- [Dynamic Graph Convolutional Networks](https://arxiv.org/pdf/1704.06199.pdf)
+		- Franco Manessi, Alessandro Rozza, Mario Manzo
+	- [Streaming Graph Neural Networks](https://arxiv.org/pdf/1810.10627.pdf)
+		- Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, Dawei Yin
 
 - **Knowledge graph embedding**
 	- [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
