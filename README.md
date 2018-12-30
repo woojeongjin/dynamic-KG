@@ -56,5 +56,11 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
 		- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
 
+- **Survey**
+	- [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202)
+		- Ziwei Zhang, Peng Cui, Wenwu Zhu
+	- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
+		- Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun
+
 ## Useful Libararies
 - [Deep graph library](https://www.dgl.ai)
