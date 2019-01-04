@@ -64,6 +64,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Ziwei Zhang, Peng Cui, Wenwu Zhu
 	- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
 		- Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun
+	- [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
+		- Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
+	- [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604)
+		- Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang
 
 ## Useful Libararies
 - [Deep graph library](https://www.dgl.ai)
