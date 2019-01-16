@@ -37,10 +37,6 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Jinyin Chen, Xuanheng Xu, Yangyang Wu, Haibin Zheng
 	- [Learning Dynamic Embeddings from Temporal Interaction Networks](https://www-cs.stanford.edu/~srijan/pubs/paper-interactions.pdf)
 		- Srijan Kumar, Xikun Zhang, Jure Leskovec
-	- [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973)
-		- Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec
-	- [Stochastic Training of Graph Convolutional Networks with Variance Reduction](https://arxiv.org/pdf/1710.10568.pdf)
-		- Jianfei Chen, Jun Zhu, Le Song
 	- [Dynamic Graph Convolutional Networks](https://arxiv.org/pdf/1704.06199.pdf)
 		- Franco Manessi, Alessandro Rozza, Mario Manzo
 	- [Streaming Graph Neural Networks](https://arxiv.org/pdf/1810.10627.pdf)
@@ -55,6 +51,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
 		- William L. Hamilton, Rex Ying, Jure Leskovec
 		- [Code (TF based)](https://github.com/williamleif/GraphSAGE), [Code (Pytorch based)](https://github.com/williamleif/graphsage-simple/)
+	- [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973)
+		- Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec
+	- [Stochastic Training of Graph Convolutional Networks with Variance Reduction](https://arxiv.org/pdf/1710.10568.pdf)
+		- Jianfei Chen, Jun Zhu, Le Song
 
 - **Relational inference**
 	- [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
