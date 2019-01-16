@@ -41,6 +41,8 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 		- Franco Manessi, Alessandro Rozza, Mario Manzo
 	- [Streaming Graph Neural Networks](https://arxiv.org/pdf/1810.10627.pdf)
 		- Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, Dawei Yin
+	- [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
+		- Colin Lea, Rene Vidal, Austin Reiter, Gregory D. Hager
 
 - **Knowledge graph embedding**
 	- [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
