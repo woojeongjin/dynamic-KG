@@ -2,7 +2,12 @@
 This page is to summarize important materials about *dynamic (temporal) knowledge graph completion* and *dynamic graph embedding*.
 
 # Bookmarks
-- [Temporal knowledge graph completion](#Temporal-knowledg-graph-completion)
+- [Temporal Knowledge Graph Completion](#Temporal-knowledge-graph-completion)
+- [Dynamic Graph Embedding](#Dynamic-graph-embedding)
+- [Knowledge Graph Embedding](#Knowledge-graph-embedding)
+- [Static Graph Embedding](#Static-graph-embedding)
+- [Survey](#Survey)
+- [Useful Libararies](#Useful-Libararies)
 
 <!-- ## List of Related Work -->
 ## Temporal knowledge graph completion
@@ -49,6 +54,9 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
 	- Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. ESWC 2018.
 	- [Code (Keras based)](https://github.com/tkipf/relational-gcn), [Code (TF based)](https://github.com/MichSchli/RelationPrediction)
+- [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
+	- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
+	- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
 
 ## Static graph embedding
 - [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
@@ -58,11 +66,6 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec
 - [Stochastic Training of Graph Convolutional Networks with Variance Reduction](https://arxiv.org/pdf/1710.10568.pdf)
 	- Jianfei Chen, Jun Zhu, Le Song
-
-## Relational inference
-- [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
-	- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
-	- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
 
 ## Survey
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202)
