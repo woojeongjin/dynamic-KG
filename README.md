@@ -9,8 +9,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Survey](#Survey)
 - [Useful Libararies](#Useful-Libararies)
 
-<!-- ## List of Related Work -->
-## Temporal knowledge graph completion
+## Temporal Knowledge Graph Completion
 - [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/abs/1705.05742)
 	- Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. ICML 2017.
 	- [Video](https://vimeo.com/238228194)
@@ -27,7 +26,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. EMNLP 2018.
 	- [Code (TF based)](https://github.com/malllabiisc/HyTE)
 
-## Dynamic graph embedding
+## Dynamic Graph Embedding
 - [Representation Learning over Dynamic Graphs](https://arxiv.org/abs/1803.04051)
 	- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ArXiv.
 	- [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
@@ -50,7 +49,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
 	- Colin Lea, Rene Vidal, Austin Reiter, Gregory D. Hager
 
-## Knowledge graph embedding
+## Knowledge Graph Embedding
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
 	- Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. ESWC 2018.
 	- [Code (Keras based)](https://github.com/tkipf/relational-gcn), [Code (TF based)](https://github.com/MichSchli/RelationPrediction)
@@ -58,7 +57,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
 	- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
 
-## Static graph embedding
+## Static Graph Embedding
 - [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
 	- William L. Hamilton, Rex Ying, Jure Leskovec
 	- [Code (TF based)](https://github.com/williamleif/GraphSAGE), [Code (Pytorch based)](https://github.com/williamleif/graphsage-simple/)
