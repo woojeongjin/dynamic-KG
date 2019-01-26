@@ -7,6 +7,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Knowledge Graph Embedding](#Knowledge-graph-embedding)
 - [Static Graph Embedding](#Static-graph-embedding)
 - [Survey](#Survey)
+- [Others](#Others)
 - [Useful Libararies](#Useful-Libararies)
 
 ## Temporal Knowledge Graph Completion
@@ -46,8 +47,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Franco Manessi, Alessandro Rozza, Mario Manzo
 - [Streaming Graph Neural Networks](https://arxiv.org/pdf/1810.10627.pdf)
 	- Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, Dawei Yin
-- [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
-	- Colin Lea, Rene Vidal, Austin Reiter, Gregory D. Hager
+- [dynnode2vec: Scalable Dynamic Network Embedding](https://arxiv.org/abs/1812.02356)
+ 	- Sedigheh Mahdavi, Shima Khoshraftar, Aijun An
+- [Dynamic Network Embedding:An Extended Approach for Skip-gram based Network Embedding](https://www.ijcai.org/proceedings/2018/0288.pdf)
+	- Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang
 
 ## Knowledge Graph Embedding
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
@@ -56,6 +59,8 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
 	- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
 	- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
+- [Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/abs/1812.00279)
+	- Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed, Amir Saffari
 
 ## Static Graph Embedding
 - [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
@@ -65,6 +70,11 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec
 - [Stochastic Training of Graph Convolutional Networks with Variance Reduction](https://arxiv.org/pdf/1710.10568.pdf)
 	- Jianfei Chen, Jun Zhu, Le Song
+- [A Higher-Order Graph Convolutional Layer](http://sami.haija.org/papers/high-order-gc-layer.pdf)
+	- Sami Abu-El-Haija, Nazanin Alipourfard, Hrayr Harutyunyan, Amol Kapoor, Bryan Perozzi
+- [Higher-order Graph Convolutional Networks](http://ryanrossi.com/pubs/Higher-order-GCNs.pdf)
+	- John Boaz Lee, Ryan A. Rossi, Xiangnan Kong, Sungchul Kim, Eunyee Koh, and Anup Rao
+
 
 ## Survey
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202)
@@ -75,6 +85,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
 - [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604)
 	- Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang
+
+## Others
+- [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
+	- Colin Lea, Rene Vidal, Austin Reiter, Gregory D. Hager
 
 ## Useful Libararies
 - [Deep graph library](https://www.dgl.ai)
