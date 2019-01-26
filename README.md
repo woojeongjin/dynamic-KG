@@ -89,6 +89,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 ## Others
 - [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
 	- Colin Lea, Rene Vidal, Austin Reiter, Gregory D. Hager
+- [What to Do Next: Modeling User Behaviors by Time-LSTM](https://www.ijcai.org/proceedings/2017/0504.pdf)
+	- Yu Zhu, Hao Li, Yikang Liao, Beidou Wang, Ziyu Guan, Haifeng Liu, Deng Cai. IJCAI 2017.
+- [Patient Subtyping via Time-Aware LSTM Networks](http://biometrics.cse.msu.edu/Publications/MachineLearning/Baytasetal_PatientSubtypingViaTimeAwareLSTMNetworks.pdf)
+	- Inci M. Baytas, Cao Xiao, Xi Zhang, Fei Wang, Anil K. Jain, Jiayu Zhou. KDD 2017.
 
 ## Useful Libararies
 - [Deep graph library](https://www.dgl.ai)
