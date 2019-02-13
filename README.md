@@ -85,6 +85,8 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
 - [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604)
 	- Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang
+- [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
+	- Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka. ICLR 2019.
 
 ## Others
 - [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
