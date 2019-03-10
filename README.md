@@ -102,3 +102,4 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 
 ## Useful Libararies
 - [Deep graph library](https://www.dgl.ai)
+- [Pytorch geometric](https://github.com/rusty1s/pytorch_geometric)
