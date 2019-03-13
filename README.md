@@ -18,7 +18,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://arxiv.org/abs/1809.03202)
 	- Alberto Garcia-Duran, Sebastijan Dumancic, Mathias Niepert. EMNLP 2018.
 - [Towards time-aware knowledge graph completion](http://aclweb.org/anthology/C16-1161)
-	- Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li and Zhifang Sui. COLING 2016
+	- Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li and Zhifang Sui. COLING 2016.
 - [Predicting the co-evolution of event and knowledge graphs](https://arxiv.org/abs/1512.06900)
 	- Cristóbal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. FUSION 2016.
 - [Deriving validity time in knowledge graph](https://dl.acm.org/citation.cfm?id=3191639)
