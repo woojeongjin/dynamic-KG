@@ -22,7 +22,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Predicting the co-evolution of event and knowledge graphs](https://arxiv.org/abs/1512.06900)
 	- Cristóbal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. FUSION 2016.
 - [Deriving validity time in knowledge graph](https://dl.acm.org/citation.cfm?id=3191639)
-	- Julien Leblay and Melisachew Wudage Chekol. WWW 2018.
+	- Julien Leblay and Melisachew Wudage Chekol. WWW Workshop 2018.
 - [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://aclweb.org/anthology/D18-1225)
 	- Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. EMNLP 2018.
 	- [Code (TF based)](https://github.com/malllabiisc/HyTE)
