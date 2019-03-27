@@ -55,6 +55,8 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Charles E. Leisersen, ArXiv.
 - [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://oar.a-star.edu.sg/jspui/bitstream/123456789/3020/1/AAAI-ChenC.4591.pdf#page8)
 	- Cen Chen, Kenli Li, Sin G. Teo, Xiaofeng Zou, Kang Wang, Jie Wang, Zeng Zeng, AAAI 2019.
+- [Structured Sequence Modeling with Graph Convolutional Recurrent Networks](https://arxiv.org/abs/1612.07659)
+	- Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson
 
 ## Knowledge Graph Embedding
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
@@ -64,7 +66,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel. ICML 2018.
 	- [Code (Pytorch based)](https://github.com/ethanfetaya/NRI)
 - [Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/abs/1812.00279)
-	- Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed, Amir Saffari
+	- Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed, Amir Saffari. ICONIP 2017.
 
 ## Static Graph Embedding
 - [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
