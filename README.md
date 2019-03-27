@@ -28,15 +28,15 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- [Code (TF based)](https://github.com/malllabiisc/HyTE)
 
 ## Dynamic Graph Embedding
-- [Representation Learning over Dynamic Graphs](https://arxiv.org/abs/1803.04051)
-	- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ArXiv.
+- [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
+	- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ICLR 2019.
 	- [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 - [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/abs/1805.11273)
 	- Palash Goyal, Nitin Kamra, Xinran He, Yan Liu. ArXiv.
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
-	- Anonymous, under review at ICLR 2019.
+	- Shaileshh Bojja Venkatakrishnan, Mohammad Alizadeh, Pramod Viswanath
 - [Dynamic Graph Representation Learning via Self-Attention Networks](https://openreview.net/forum?id=HylsgnCcFQ)
-	- Anonymous, under review at ICLR 2019.
+	- Aravind Sankar, Yanhong Wu, Liang Gou, Wei Zhang, Hao Yang
 - [Continuous-Time Dynamic Network Embeddings](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)
 	- Giang Hoang Nguyen, John Boaz Lee, Ryan A. Rossi, Nesreen K. Ahmed, Eunyee Koh, Sungchul Kim. WWW 2018.
 - [GC-LSTM: Graph Convolution Embedded LSTM for Dynamic Link Prediction](https://arxiv.org/pdf/1812.04206.pdf)
