@@ -56,7 +56,9 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://oar.a-star.edu.sg/jspui/bitstream/123456789/3020/1/AAAI-ChenC.4591.pdf#page8)
 	- Cen Chen, Kenli Li, Sin G. Teo, Xiaofeng Zou, Kang Wang, Jie Wang, Zeng Zeng, AAAI 2019.
 - [Structured Sequence Modeling with Graph Convolutional Recurrent Networks](https://arxiv.org/abs/1612.07659)
-	- Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson
+	- Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson, ICONIP 2017.
+- [Dynamic Network Embedding by Modeling Triadic Closure Process](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
+	- Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang. AAAI 2018.
 
 ## Knowledge Graph Embedding
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
