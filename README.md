@@ -31,7 +31,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 	- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ICLR 2019.
 - [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/abs/1805.11273)
-	- Palash Goyal, Nitin Kamra, Xinran He, Yan Liu. ArXiv.
+	- Palash Goyal, Nitin Kamra, Xinran He, Yan Liu. IJCAI 2017.
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 	- Shaileshh Bojja Venkatakrishnan, Mohammad Alizadeh, Pramod Viswanath
 - [Dynamic Graph Representation Learning via Self-Attention Networks](https://openreview.net/forum?id=HylsgnCcFQ)
