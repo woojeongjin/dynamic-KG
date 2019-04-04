@@ -46,9 +46,9 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Franco Manessi, Alessandro Rozza, Mario Manzo
 - [Streaming Graph Neural Networks](https://arxiv.org/pdf/1810.10627.pdf)
 	- Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, Dawei Yin
-- [dynnode2vec: Scalable Dynamic Network Embedding](https://arxiv.org/abs/1812.02356)
- 	- Sedigheh Mahdavi, Shima Khoshraftar, Aijun An
-- [Dynamic Network Embedding:An Extended Approach for Skip-gram based Network Embedding](https://www.ijcai.org/proceedings/2018/0288.pdf)
+<!-- - [dynnode2vec: Scalable Dynamic Network Embedding](https://arxiv.org/abs/1812.02356)
+ 	- Sedigheh Mahdavi, Shima Khoshraftar, Aijun An -->
+- [Dynamic Network Embedding: An Extended Approach for Skip-gram based Network Embedding](https://www.ijcai.org/proceedings/2018/0288.pdf)
 	- Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang
 - [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/abs/1902.10191)
 	- Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Charles E. Leisersen, ArXiv.
