@@ -15,6 +15,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. ICML 2017.
 	- [Video](https://vimeo.com/238228194)
 	- [Code (cpp)](https://github.com/rstriv/Know-Evolve) -->
+- [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/1904.05530)
+	- Woojeong Jin, He Jiang, Changlin Zhang, Pedro Szekely, Xiang Ren. ArXiv.
+	- We propose a novel neural architecture for modeling complex event sequences which consists of a *recurrent event encoder* and a *neighborhood aggregator*.
+	- We study various neighborhood aggregators and a multi-relational aggregator demonstrates its effectiveness among them.
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://arxiv.org/abs/1809.03202)
 	- Alberto Garcia-Duran, Sebastijan Dumancic, Mathias Niepert. EMNLP 2018.
 - [Towards time-aware knowledge graph completion](http://aclweb.org/anthology/C16-1161)
@@ -94,6 +98,8 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
 	- Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka. ICLR 2019.
+- [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/abs/1905.11485)
+	- Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart
 
 ## Others
 - [Temporal Convolutional Networks: A Unified Approach to Action Segmentation](https://arxiv.org/abs/1608.08242)
