@@ -10,7 +10,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Others](#Others)
 - [Useful Libararies](#Useful-Libararies)
 
-## Temporal Knowledge Graph Completion
+## Temporal Knowledge Graph Completion / Reasoning
 - [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/1904.05530)
 	- Woojeong Jin, He Jiang, Changlin Zhang, Pedro Szekely, Xiang Ren. Short version accepted to ICLR-RLGM, 2019.
 		- Proposes a novel neural architecture for modeling complex entity interaction sequences, which consists of a *recurrent event encoder* and a *neighborhood aggregator*.
@@ -88,7 +88,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- John Boaz Lee, Ryan A. Rossi, Xiangnan Kong, Sungchul Kim, Eunyee Koh, and Anup Rao
 
 
-## Survey
+## Other Survey Papers
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202)
 	- Ziwei Zhang, Peng Cui, Wenwu Zhu
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
