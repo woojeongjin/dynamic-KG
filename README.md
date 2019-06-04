@@ -11,14 +11,14 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 - [Useful Libararies](#Useful-Libararies)
 
 ## Temporal Knowledge Graph Completion
+- [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/1904.05530)
+	- Woojeong Jin, He Jiang, Changlin Zhang, Pedro Szekely, Xiang Ren. ArXiv.
+		- We propose a novel neural architecture for modeling complex event sequences which consists of a *recurrent event encoder* and a *neighborhood aggregator*.
+		- We study various neighborhood aggregators and a multi-relational aggregator demonstrates its effectiveness among them.
 <!-- - [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/abs/1705.05742)
 	- Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. ICML 2017.
 	- [Video](https://vimeo.com/238228194)
 	- [Code (cpp)](https://github.com/rstriv/Know-Evolve) -->
-- [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/1904.05530)
-	- Woojeong Jin, He Jiang, Changlin Zhang, Pedro Szekely, Xiang Ren. ArXiv.
-	- We propose a novel neural architecture for modeling complex event sequences which consists of a *recurrent event encoder* and a *neighborhood aggregator*.
-	- We study various neighborhood aggregators and a multi-relational aggregator demonstrates its effectiveness among them.
 - [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://arxiv.org/abs/1809.03202)
 	- Alberto Garcia-Duran, Sebastijan Dumancic, Mathias Niepert. EMNLP 2018.
 - [Towards time-aware knowledge graph completion](http://aclweb.org/anthology/C16-1161)
