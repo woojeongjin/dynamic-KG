@@ -2,7 +2,7 @@
 This page is to summarize important materials about *dynamic (temporal) knowledge graph completion* and *dynamic graph embedding*.
 
 # Bookmarks
-- [Temporal Knowledge Graph Completion](#Temporal-knowledge-graph-completion)
+- [Temporal Knowledge Graph Completion](#Temporal-knowledge-graph-completion-/-reasoning)
 - [Dynamic Graph Embedding](#Dynamic-graph-embedding)
 - [Knowledge Graph Embedding](#Knowledge-graph-embedding)
 - [Static Graph Embedding](#Static-graph-embedding)
