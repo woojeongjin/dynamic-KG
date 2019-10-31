@@ -13,7 +13,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 ## Temporal Knowledge Graph Completion / Reasoning
 - [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/abs/1904.05530)
 	- Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. Short version accepted to ICLR-RLGM, 2019.
-		- This work is on an *extrapolation* problem which is to make predictions at unobserved times, different from previous work.
+		- This work is on an *extrapolation* problem which is to make predictions at unobserved times, different from interpolation work.
 		- Proposes a novel neural architecture for modeling complex entity interaction sequences, which consists of a *recurrent event encoder* and a *neighborhood aggregator*.
 		- Explores various neighborhood aggregators: a multi-relational graph aggregator demonstrates its effectiveness among them.
 		- [Code and Data](https://github.com/INK-USC/re-net)
