@@ -13,6 +13,7 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 ## Temporal Knowledge Graph Completion / Reasoning
 - [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/abs/1904.05530)
 	- Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. Short version accepted to ICLR-RLGM, 2019.
+		- This work is on an *extrapolation* problem which is to make predictions at unobserved times, different from previous work.
 		- Proposes a novel neural architecture for modeling complex entity interaction sequences, which consists of a *recurrent event encoder* and a *neighborhood aggregator*.
 		- Explores various neighborhood aggregators: a multi-relational graph aggregator demonstrates its effectiveness among them.
 		- [Code and Data](https://github.com/INK-USC/re-net)
@@ -20,20 +21,20 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. ICML 2017.
 	- [Video](https://vimeo.com/238228194)
 	- [Code (cpp)](https://github.com/rstriv/Know-Evolve) -->
-- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://arxiv.org/abs/1809.03202)
+- [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://arxiv.org/abs/1809.03202) (Interpolation)
 	- Alberto Garcia-Duran, Sebastijan Dumancic, Mathias Niepert. EMNLP 2018.
-- [Towards time-aware knowledge graph completion](http://aclweb.org/anthology/C16-1161)
+- [Towards time-aware knowledge graph completion](http://aclweb.org/anthology/C16-1161) (Interpolation)
 	- Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li and Zhifang Sui. COLING 2016.
-- [Predicting the co-evolution of event and knowledge graphs](https://arxiv.org/abs/1512.06900)
-	- Cristóbal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. FUSION 2016.
-- [Deriving validity time in knowledge graph](https://dl.acm.org/citation.cfm?id=3191639)
+- [Deriving validity time in knowledge graph](https://dl.acm.org/citation.cfm?id=3191639) (Interpolation)
 	- Julien Leblay and Melisachew Wudage Chekol. WWW Workshop 2018.
-- [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://aclweb.org/anthology/D18-1225)
+- [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://aclweb.org/anthology/D18-1225) (Interpolation)
 	- Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. EMNLP 2018.
 	- [Code (TF based)](https://github.com/malllabiisc/HyTE)
+- [Predicting the co-evolution of event and knowledge graphs](https://arxiv.org/abs/1512.06900)
+	- Cristóbal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. FUSION 2016.
 
 ## Dynamic Graph Embedding
-- [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
+- [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX) (Extrapolation)
 	- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ICLR 2019.
 - [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/abs/1805.11273)
 	- Palash Goyal, Nitin Kamra, Xinran He, Yan Liu. IJCAI 2017.
