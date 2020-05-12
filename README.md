@@ -32,6 +32,10 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- [Code (TF based)](https://github.com/malllabiisc/HyTE)
 - [Predicting the co-evolution of event and knowledge graphs](https://arxiv.org/abs/1512.06900)
 	- Cristóbal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. FUSION 2016.
+- [Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition](https://arxiv.org/pdf/1911.07893.pdf)
+- [Diachronic Embedding for Temporal Knowledge Graph Completion](https://grlearning.github.io/papers/41.pdf)
+- [Hybrid-TE: Hybrid Translation-based Temporal Knowledge Graph Embedding](http://www-kb.is.s.u-tokyo.ac.jp/~li-xin/ictai19.pdf)
+- [Tensor Decompositions for Temporal Knowledge Base Completion](https://openreview.net/forum?id=rke2P1BFwS)
 
 ## Dynamic Graph Embedding
 - [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX) (Extrapolation)
@@ -64,6 +68,9 @@ This page is to summarize important materials about *dynamic (temporal) knowledg
 	- Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson, ICONIP 2017.
 - [Dynamic Network Embedding by Modeling Triadic Closure Process](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
 	- Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang. AAAI 2018.
+- [DynGAN: Generative Adversarial Networks for Dynamic Network Embedding](https://grlearning.github.io/papers/66.pdf)
+	- Ayush Maheshwari, Ayush Goyal, Manjesh Kumar Hanawal, Ganesh Ramakrishnan. NeurIPS 2019 Workshop.
+
 
 ## Knowledge Graph Embedding
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
